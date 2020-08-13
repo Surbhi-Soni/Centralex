@@ -1,0 +1,173 @@
+body{
+  text-align: center;
+
+}
+
+#title{
+  text-align: center;
+   background-color: #3e64ff;
+  color: #f9fcfb;
+
+}
+.collapse{
+  padding: 0 150px 0 150px;
+}
+
+.nav-item-logo{
+  padding: 5px 2px ;
+}
+.logo-img{
+  padding: 15px 20px 0 0;
+  margin-left: 0;
+}
+.navbar{
+  background-color: #3e64ff;
+  padding: 200px;
+}
+.nav-link{
+  color: #f9fcfb;
+  font-weight: 500;
+}
+.nav-item {
+  padding: 2px 20px 0 20px;
+  font-weight: 400;
+  font-size: 14px;
+
+}
+.nav-item-1{
+  padding: 8px 5px 0 20px;
+font-weight: 400;
+  font-size: 12px;
+
+}
+
+.rama{
+  padding-left: 10px;
+}
+.nav-item-notification{
+  padding: 10px 20px;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+
+
+.centered {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.heading{
+  padding: 50px 0 200px 20px;
+  position: relative;
+
+}
+.email{
+  width: 280px;
+  height: 40px;
+  border-style: none;
+  padding-left: 20px;
+  margin: 20px 20px 0 0;
+}
+::placeholder {
+  color: #c8dad3;
+  font-size: 15px;
+}
+.submit-button{
+  padding-left: 20px;
+}
+
+#pricing-table{
+  width: 80%;
+  margin-left: 9%;
+  position: absolute;
+  top: 59.5%;
+  left: 1%;
+  background-color: #fff;
+  border: solid 1px #c8dad3;
+
+}
+.table{
+
+}
+.table-heading{
+  color: #3e64ff;
+  background-color: #ddf3f5;
+}
+th, td{
+  padding-left: 20px;
+  font-size: 13px;
+}
+td{
+  color: #7e97a6;
+  font-weight: bold;
+}
+.minus{
+  color: red;
+}
+.down-icon{
+  position: absolute;
+  top: 34.5rem;
+  left: 50%;
+}
+
+#invite{
+  margin: 40% 5% 0 15%;
+}
+.h3-invite{
+
+  padding-bottom: 10px;
+  font-size: 2rem;
+  color: #5c5757;
+  line-height: 1;
+}
+
+.p-invite{
+  color: #5c5757;
+}
+.btn{
+  margin-top: 13px;
+}
+.referral{
+  margin-left: 50px:
+}
+.invite-icon{
+  margin: 35% 0 0 -7%
+}
+#portfolio{
+  background-color: #3e64ff;
+  clip-path: polygon(100% 0, 100% 38%, 100% 75%, 0 100%, 0 25%);
+}
+.portfolio-img{
+  margin: 35% 0 350px 150px;
+}
+.h3-portfolio{
+  margin: 230px 130px 0 0 ;
+  font-size: 2rem;
+  color: #fff;
+}
+.portfolio-img-1{
+  position: absolute;
+  top: 40%;
+  left: 70%
+
+
+}
+.row{
+  color: #5c5757;
+}
+.h4-heading{
+  text-align: center;
+  color: #5c5757;
+  font-size: 2rem;
+  padding: 30px 100px;
+  margin-bottom: 50px;
+}
+.col-6{
+  margin: 10px 0 10px 0;
+  text-align: right;
+}
